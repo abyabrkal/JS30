@@ -1,0 +1,32 @@
+@font-face {
+    font-family: ProductSans;
+    src: url(/fonts/ProductSansRegular.ttf);
+    }
+
+
+body {
+    margin: 20px;
+    max-width: 700px;
+    font-family: ProductSans, Helvetica, Arial, sans-serif;
+}
+
+li, a {
+    text-decoration: none;
+    list-style: none;
+}
+
+.ix-box-container
+
+
+.ix-box-container .ix-js {
+    width: 300px;
+    height: 200px;
+    background-color: bisque;
+    margin: 10px;
+    border-radius: 7px;
+    font-size: 2.4em;
+    font-weight: 800;
+    color: tomato;
+    text-align: center;
+}
+
