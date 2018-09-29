@@ -3,3 +3,8 @@
     src: url(../fonts/ProductSansRegular.ttf);
 }
 
+body {
+    font-family: ProductSans, 'helvetica neue', sans-serif;
+    font-size: 20px;
+}
+
